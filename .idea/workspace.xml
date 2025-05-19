@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="002e9a6a-fb7b-4437-8231-286fc99d4652" name="변경" comment="20250515심화">
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+    <list default="true" id="002e9a6a-fb7b-4437-8231-286fc99d4652" name="변경" comment="20250519 기본">
+      <change afterPath="$PROJECT_DIR$/hw/20250519/심화/심화.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5bfd2260-c596-483d-913b-9a124aad9482.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/5bfd2260-c596-483d-913b-9a124aad9482.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +106,7 @@
       <workItem from="1747635242142" duration="1396000" />
       <workItem from="1747636662753" duration="39000" />
       <workItem from="1747636723620" duration="753000" />
-      <workItem from="1747637501323" duration="164000" />
+      <workItem from="1747637501323" duration="1792000" />
     </task>
     <task id="LOCAL-00001" summary="20250515심화">
       <option name="closed" value="true" />
@@ -114,7 +116,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747294460557</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="20250519 기본">
+      <option name="closed" value="true" />
+      <created>1747637852785</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747637852785</updated>
+    </task>
+    <task id="LOCAL-00003" summary="20250519 기본">
+      <option name="closed" value="true" />
+      <created>1747637866832</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747637866832</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,7 +141,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20250515기본" />
     <MESSAGE value="20250515심화" />
-    <option name="LAST_COMMIT_MESSAGE" value="20250515심화" />
+    <MESSAGE value="20250519 기본" />
+    <option name="LAST_COMMIT_MESSAGE" value="20250519 기본" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
