@@ -46,6 +46,7 @@ FROM employees;]]></console>
   </component>
   <component name="DBNavigator.Project.FileConnectionMappingManager">
     <mapping file-url="file://$PROJECT_DIR$/hw/20250515/기본/기본.sql" connection-id="9d8248f9-7b6d-4408-9c0e-f29967948ab6" session-id="MAIN" current-schema="sqldb" />
+    <mapping file-url="file://$PROJECT_DIR$/hw/20250519/기본/기본.sql" connection-id="9d8248f9-7b6d-4408-9c0e-f29967948ab6" session-id="MAIN" current-schema="tabledb" />
   </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
     <last-used-operator value="EQUAL" />
