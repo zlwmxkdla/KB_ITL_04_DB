@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/chapter09.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/hw/20250519/기본/기본.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/hw/20250519/심화/심화.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/hw/20250520/기본/기본.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/hw/20250520/심화/심화.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
